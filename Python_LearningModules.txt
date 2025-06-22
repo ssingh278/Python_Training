@@ -1,0 +1,84 @@
+core python
+Python Introduction
+Python Installation
+Python – Basic Syntax
+Python Variables
+Python Operators
+Python Lists
+Python Tuples
+Python Dictionary
+Python Sets
+Flow Control
+If Statement
+If-else statement
+If-elif statement
+If-elif-else statement
+Nested-if statement
+For Loop
+While Loop
+Break Statement
+Continue Statement
+Pass Statement
+Functions
+Python Functions
+Types of Functions
+Local & Global
+Global Keyword
+Lambda Functions
+Recursion in Python
+args* and kwargs**
+Python OOPs
+Introduction to OOps
+Classes and Object
+Methods in OOPs
+Constructor in OOPs
+Destructor in OOPs
+Encapsulation in OOPs
+Data Abstraction
+Inheritance and its Types
+Access Specifiers
+Super Function
+Polymorphism in OOPs
+Abstract Class
+Magic Methods
+Iterables in Python
+Iterators in Python
+Yield in Python
+Generators in Python
+Decorators in Python
+
+File Handling
+Introduction
+For Text Files
+Open – Text File
+Write – Text File
+Append – Text File
+Read – Text File
+seek() and tell()
+Writing Multiple Data
+Update – Text File
+Delete – Text File
+For Binary File
+Pickling & Unpickling
+Write – Binary File
+Writing Multiple Data
+Read – Binary File
+Reading Multiple Data
+Append – Binary File
+Update – Binary File
+Search – Binary File
+Delete – Binary File
+
+
+
+Intro to SQLite _ MySQL
+Introduction
+Installation – SQLite
+Working with SQLite
+SQLite&Python
+Database Connection
+Insert Data
+Reading Data
+Update Data
+Delete Data
+CRUD Operations

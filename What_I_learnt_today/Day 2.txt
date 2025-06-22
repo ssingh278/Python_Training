@@ -1,0 +1,29 @@
+Day 2
+What I learnt today:
+
+# Today, I learnt about the literals variable and datatypes
+# Literal : it is a memory place holder for Known Values
+# Datatype: it is a memory allocation tool through which we can allocate memory.with he help of datatype we can identify 3 aspects of allocated memory: format, size, List item
+# By default in python we have only one datatype support i.e Object
+# Then, learnt about casting vs conversion
+# casting - a data type converted into another data type by programmer (other terms used: Narrow conversion, Explicit conversion)
+# conversion - a data type converted into another data type by compiler, interpreter and compiling time.(other term used: Wide conversion, Implicit conversion, coercion)
+# python does not have its own compiler it has interpreter
+# General knowledge boosting : What is programming? A programmer needs to talk with OS to do so, they use datatype and send it to OS. Then, OS translate it to a memory address which is either store in heap or stack.
+# heap: It do dynamical memory allocation
+# stack: It do unique memory allocation
+# There are two type of OOPS:
+	-> Full OOPS - Use both heap and stack (example - C#, C++)
+	-> Pure OOPS - Use only heap  (example - python)
+# Then, I learnt about different type of string display method using input:
+	-> placeholder using datatype format characters, Example
+		* print("Student Name=%s"%name)
+		* print("Student Rollno=%d"%rollno)
+		* print("Student Gender=%c"%gender)
+		* print("Student Fee=%f"%fee)
+	-> using format function, Example:
+		* print("Student Name={0} \n Student Rollno={1} \n Student Gender={2} \n Student Fee={3}".format(name,rollno,gender,fee))
+	-> using f-string, Example
+		* print(f"Student Name={name} \n Student Rollno={rollno} \n Student Gender={gender} \n Student Fee={fee}")
+	
+
